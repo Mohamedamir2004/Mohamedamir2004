@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi 👋, I'm Mohamed Amir
 
-<!--
-**Mohamedamir2004/Mohamedamir2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Python Full Stack Developer
 
-Here are some ideas to get you started:
+💻 Passionate about building scalable web applications using Python, Django, React.js, and REST APIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Chennai, Tamil Nadu, India
+
+---
+
+## 🚀 Tech Stack
+
+### Frontend
+HTML5 | CSS3 | JavaScript | React.js | Bootstrap | Tailwind CSS
+
+### Backend
+Python | Django | REST APIs
+
+### Databases
+MySQL | MongoDB | SQLite
+
+### Tools
+Git | GitHub | Postman | VS Code | PythonAnywhere
+
+---
+
+## 📌 Featured Projects
+
+### 🍽 Food Process Management System
+Full-stack Django web application with authentication, CRUD operations, and responsive UI.
+
+🔗 Repository:
+https://github.com/Mohamedamir2004/Food_Process_Management
+
+---
+
+### 🌦 Weather Application
+Weather dashboard using OpenWeather API and JavaScript.
+
+🔗 Repository:
+https://github.com/Mohamedamir2004/weather-deducte-web-application
+
+---
+
+### 📚 Library Management System
+Django-based application for managing books and student records.
+
+🔗 Repository:
+https://github.com/Mohamedamir2004/Library_Management
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn:
+https://www.linkedin.com/in/amir0409/
+
+- Email:
+amir.my2004@gmail.com
